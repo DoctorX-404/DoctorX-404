@@ -32,25 +32,74 @@
 <!--         TECH & TOOLS          -->
 <!-- ============================= -->
 
-### 🧰 Tech & Tools
+## 🧰 Tech & Tools
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E/222" width="48" height="48" alt="JavaScript" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/83CD29/222" width="48" height="48" alt="Node.js" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB/222" width="48" height="48" alt="React" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26/222" width="48" height="48" alt="HTML5" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6/222" width="48" height="48" alt="CSS3" />
-  <img src="https://cdn.simpleicons.org/mysql/00758F/222" width="48" height="48" alt="SQL" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420/222" width="48" height="48" alt="Ubuntu" />
-  <img src="https://cdn.simpleicons.org/kalilinux/268BEE/222" width="48" height="48" alt="Kali Linux" />
-  <img src="https://cdn.simpleicons.org/centos/932279/222" width="48" height="48" alt="CentOS" />
-  <img src="https://cdn.simpleicons.org/git/F05032/222" width="48" height="48" alt="Git" />
-  <img src="https://cdn.simpleicons.org/github/ffffff/222" width="48" height="48" alt="GitHub" />
-  <img src="https://cdn.simpleicons.org/burpsuite/FF6F00/222" width="48" height="48" alt="Burp Suite" />
-  <img src="https://cdn.simpleicons.org/portswigger/FF6F00/222" width="48" height="48" alt="PortSwigger" />
-  <img src="https://cdn.simpleicons.org/nmap/00BFFF/222" width="48" height="48" alt="Nmap" />
-  <img src="https://cdn.simpleicons.org/cisco/1BA0D7/222" width="48" height="48" alt="CCNA" />
-  <img src="https://cdn.simpleicons.org/microsoft/0078D7/222" width="48" height="48" alt="MCSA" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" style="width:56px;height:56px;background:#1f2937;border-radius:12px;padding:8px;margin:6px;display:inline-block;" />
+  </a>
+
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/nodedotjs/83CD29" alt="Node.js" style="width:56px;height:56px;background:#1f2937;border-radius:12px;padding:8px;margin:6px;display:inline-block;" />
+  </a>
+
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" style="width:56px;height:56px;background:#1f2937;border-radius:12px;padding:8px;margin:6px;display:inline-block;" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" style="width:56px;height:56px;background:#1f2937;border-radius:12px;padding:8px;margin:6px;display:inline-block;" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" style="width:56px;height:56px;background:#1f2937;border-radius:12px;padding:8px;margin:6px;display:inline-block;" />
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/mysql/00758F" alt="SQL / MySQL" style="width:56px;height:56px;background:#1f2937;border-radius:12px;padding:8px;margin:6px;display:inline-block;" />
+  </a>
+
+  <a href="https://ubuntu.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/ubuntu/E95420" alt="Ubuntu" style="width:56px;height:56px;background:#1f2937;border-radius:12px;padding:8px;margin:6px;display:inline-block;" />
+  </a>
+
+  <a href="https://www.kali.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/kali/268BEE" alt="Kali Linux" style="width:56px;height:56px;background:#1f2937;border-radius:12px;padding:8px;margin:6px;display:inline-block;" />
+  </a>
+
+  <a href="https://www.centos.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/centos/932279" alt="CentOS" style="width:56px;height:56px;background:#1f2937;border-radius:12px;padding:8px;margin:6px;display:inline-block;" />
+  </a>
+
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" style="width:56px;height:56px;background:#1f2937;border-radius:12px;padding:8px;margin:6px;display:inline-block;" />
+  </a>
+
+  <a href="https://github.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" style="width:56px;height:56px;background:#1f2937;border-radius:12px;padding:8px;margin:6px;display:inline-block;" />
+  </a>
+
+  <!-- PortSwigger exists in SimpleIcons -->
+  <a href="https://portswigger.net/" target="_blank">
+    <img src="https://cdn.simpleicons.org/portswigger/FF6F00" alt="PortSwigger" style="width:56px;height:56px;background:#1f2937;border-radius:12px;padding:8px;margin:6px;display:inline-block;" />
+  </a>
+
+  <!-- Burp Suite icon might not be available in SimpleIcons; using small text-badge fallback -->
+  <a href="https://portswigger.net/burp" target="_blank" style="text-decoration:none;display:inline-block;margin:6px;">
+    <img src="https://img.shields.io/badge/Burp%20Suite-%23222222?style=flat-square&logo=burpsuite&logoColor=FF6F00" alt="Burp Suite" style="width:56px;height:56px;border-radius:12px;padding:6px;background:#1f2937;" />
+  </a>
+
+  <a href="https://nmap.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/nmap/00BFFF" alt="Nmap" style="width:56px;height:56px;background:#1f2937;border-radius:12px;padding:8px;margin:6px;display:inline-block;" />
+  </a>
+
+  <a href="https://www.cisco.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/cisco/1BA0D7" alt="CCNA / Cisco" style="width:56px;height:56px;background:#1f2937;border-radius:12px;padding:8px;margin:6px;display:inline-block;" />
+  </a>
+
+  <a href="https://learn.microsoft.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/microsoft/0078D7" alt="MCSA / Microsoft" style="width:56px;height:56px;background:#1f2937;border-radius:12px;padding:8px;margin:6px;display:inline-block;" />
+  </a>
 </p>
 ---
 
