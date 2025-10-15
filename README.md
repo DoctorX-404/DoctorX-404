@@ -2,7 +2,7 @@
 <!--          BANNER SECTION       -->
 <!-- ============================= -->
 
-![Banner](https://gifdb.com/images/high/black-background-star-constellation-9yh7ozd1p01cctby.gif)
+![Banner](https://tse4.mm.bing.net/th/id/OIP.YG2FgfgaAacvsxiPYSIpbgHaEK?rs=1&pid=ImgDetMain&o=7&rm=3)
 
 ---
 
@@ -10,7 +10,7 @@
 <!--          INTRODUCTION         -->
 <!-- ============================= -->
 
-#👋 Hi, I'm AbdelWahab, but you can call me "DoctorX" 
+# 👋 Hi, I'm AbdelWahab, but you can call me "DoctorX" 
 **Cybersecurity | Web Developer | Bug Hunter**
 
 ---
