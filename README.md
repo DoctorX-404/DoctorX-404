@@ -32,102 +32,80 @@
 <!--         TECH & TOOLS          -->
 <!-- ============================= -->
 
-## 🧰 Tech & Tools
+### 🧰 Tech & Tools
 
 <p align="center">
   <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" style="margin:10px;"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" style="margin:15px;"/>
+    <br><sub><b>JavaScript</b></sub>
   </a>
-  <br>JavaScript
-</p>
 
-<p align="center">
   <!-- HTML -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" style="margin:10px;"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" style="margin:15px;"/>
+    <br><sub><b>HTML</b></sub>
   </a>
-  <br>HTML
-</p>
 
-<p align="center">
   <!-- CSS -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" style="margin:10px;"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" style="margin:15px;"/>
+    <br><sub><b>CSS</b></sub>
   </a>
-  <br>CSS
-</p>
 
-<p align="center">
   <!-- React -->
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" style="margin:10px;"/>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" style="margin:15px;"/>
+    <br><sub><b>React</b></sub>
   </a>
-  <br>React
-</p>
 
-<p align="center">
   <!-- Ubuntu -->
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="60" height="60" style="margin:10px;"/>
+  <a href="https://ubuntu.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="60" height="60" style="margin:15px;"/>
+    <br><sub><b>Ubuntu</b></sub>
   </a>
-  <br>Ubuntu
-</p>
 
-<p align="center">
   <!-- Kali Linux -->
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="60" height="60" style="margin:10px;"/>
+  <a href="https://www.kali.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="60" height="60" style="margin:15px;"/>
+    <br><sub><b>Kali Linux</b></sub>
   </a>
-  <br>Kali Linux
-</p>
 
-<p align="center">
   <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" style="margin:10px;"/>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" style="margin:15px;"/>
+    <br><sub><b>Git</b></sub>
   </a>
-  <br>Git
-</p>
 
-<p align="center">
   <!-- GitHub -->
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" style="margin:10px; filter: invert(1);"/>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" style="margin:15px; background-color:white; border-radius:10px;"/>
+    <br><sub><b>GitHub</b></sub>
   </a>
-  <br>GitHub
-</p>
 
-<p align="center">
   <!-- Nmap -->
-  <a href="https://nmap.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Nmap_logo.svg" width="60" height="60" style="margin:10px;"/>
+  <a href="https://nmap.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/nmap/nmap/master/docs/images/nmap-logo-256x256.png" width="60" height="60" style="margin:15px; border-radius:10px;"/>
+    <br><sub><b>Nmap</b></sub>
   </a>
-  <br>Nmap
-</p>
 
-<p align="center">
   <!-- Burp Suite -->
-  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/1353940?s=280&v=4" width="60" height="60" style="margin:10px;"/>
+  <a href="https://portswigger.net/burp" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Burp_Suite_Logo.png" width="60" height="60" style="margin:15px; border-radius:10px;"/>
+    <br><sub><b>Burp Suite</b></sub>
   </a>
-  <br>Burp Suite
-</p>
 
-<p align="center">
   <!-- MCSA -->
-  <a href="https://learn.microsoft.com/en-us/certifications/mcsa/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" width="60" height="60" style="margin:10px;"/>
+  <a href="https://learn.microsoft.com/en-us/certifications/mcsa/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" width="60" height="60" style="margin:15px;"/>
+    <br><sub><b>MCSA</b></sub>
   </a>
-  <br>MCSA
-</p>
 
-<p align="center">
   <!-- CCNA -->
-  <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/cisco-2.svg" width="60" height="60" style="margin:10px;"/>
+  <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/cisco-2.svg" width="60" height="60" style="margin:15px;"/>
+    <br><sub><b>CCNA</b></sub>
   </a>
-  <br>CCNA
 </p>
 ---
 
