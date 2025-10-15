@@ -42,7 +42,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" style="width:56px;height:56px;background:#1f2937;border-radius:12px;padding:8px;margin:6px;display:inline-block;" />
   </a>
-JS
+
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://cdn.simpleicons.org/nodedotjs/83CD29" alt="Node.js" style="width:56px;height:56px;background:#1f2937;border-radius:12px;padding:8px;margin:6px;display:inline-block;" />
   </a>
@@ -56,7 +56,7 @@ JS
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" style="width:56px;height:56px;background:#1f2937;border-radius:12px;padding:8px;margin:6px;display:inline-block;" />
+    <img src="[https://cdn.simpleicons.org/css3/1572B6](https://tse2.mm.bing.net/th/id/OIP.aiII04uB8m611vQPSw7HfgHaHa?rs=1&pid=ImgDetMain&o=7&rm=3)" alt="CSS3" style="width:56px;height:56px;background:#1f2937;border-radius:12px;padding:8px;margin:6px;display:inline-block;" />
   </a>
 
   <a href="https://www.mysql.com/" target="_blank">
