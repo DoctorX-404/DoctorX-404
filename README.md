@@ -34,12 +34,7 @@
 
 ## Tech & Tools  
 
-<p align="center">
-  <!-- Replace or remove badges as needed -->
-  <img src="https://img.shields.io/badge/Skill1-Color?logo=tool&logoColor=white" />
-  <img src="https://img.shields.io/badge/Skill2-Color?logo=tool&logoColor=white" />
-  <img src="https://img.shields.io/badge/Skill3-Color?logo=tool&logoColor=white" />
-</p>
+[![JavaScript](https://cdn.simpleicons.org/javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) JavaScript · [![Node.js](https://cdn.simpleicons.org/nodedotjs)](https://nodejs.org/) Node.js · [![React](https://cdn.simpleicons.org/react)](https://reactjs.org/) React · [![HTML5](https://cdn.simpleicons.org/html5)](https://developer.mozilla.org/en-US/docs/Web/HTML) HTML5 · [![CSS3](https://cdn.simpleicons.org/css3)](https://developer.mozilla.org/en-US/docs/Web/CSS) CSS3 · [![SQL](https://cdn.simpleicons.org/mysql)](https://www.mysql.com/) SQL · [![Ubuntu](https://cdn.simpleicons.org/ubuntu)](https://ubuntu.com/) Ubuntu · [![Kali](https://cdn.simpleicons.org/kali)](https://www.kali.org/) Kali · [![CentOS](https://cdn.simpleicons.org/centos)](https://www.centos.org/) CentOS · [![Git](https://cdn.simpleicons.org/git)](https://git-scm.com/) Git · [![GitHub](https://cdn.simpleicons.org/github)](https://github.com/) GitHub · [![Burp Suite](https://cdn.simpleicons.org/portswigger)](https://portswigger.net/burp) Burp Suite · [![PortSwigger](https://cdn.simpleicons.org/portswigger)](https://portswigger.net/) PortSwigger · [![Nmap](https://cdn.simpleicons.org/nmap)](https://nmap.org/) Nmap · CCNA · MCSA
 
 ---
 
