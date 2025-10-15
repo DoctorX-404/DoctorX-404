@@ -49,7 +49,9 @@
   <img src="https://cdn.simpleicons.org/burpsuite/FF6F00/222" width="48" height="48" alt="Burp Suite" />
   <img src="https://cdn.simpleicons.org/portswigger/FF6F00/222" width="48" height="48" alt="PortSwigger" />
   <img src="https://cdn.simpleicons.org/nmap/00BFFF/222" width="48" height="48" alt="Nmap" />
-  <img src="https://cdn.simpleicons.org/cisco/1BA0D7/
+  <img src="https://cdn.simpleicons.org/cisco/1BA0D7/222" width="48" height="48" alt="CCNA" />
+  <img src="https://cdn.simpleicons.org/microsoft/0078D7/222" width="48" height="48" alt="MCSA" />
+</p>
 ---
 
 <!-- ============================= -->
