@@ -20,11 +20,11 @@
 <!-- ============================= -->
 
 ## About Me  
-I’m Abdelwahab Ali — a Cybersecurity Student, Bug Hunter, and Web Developer in training.
-💻 Currently exploring web security, Full-Stack development, and deepening my skills through PortSwigger Academy and The Odin Project.
-🎯 My goal is to become a Cybersecurity Expert and contribute to securing modern web applications.
-⚡ I’ve completed CCNA certification, and I’m currently learning advanced web exploitation techniques.
-🚀 Passionate about ethical hacking, continuous learning, and building a strong technical foundation step by step  
+<br>I’m Abdelwahab Ali — a Cybersecurity Student, Bug Hunter, and Web Developer in training</br>
+<br>💻 Currently exploring web security, Full-Stack development, and deepening my skills through PortSwigger Academy and The Odin Project</br>.
+<br>🎯 My goal is to become a Cybersecurity Expert and contribute to securing modern web applications.</br>
+<br>⚡ I’ve completed CCNA certification, and I’m currently learning advanced web exploitation techniques.</br>
+<br>🚀 Passionate about ethical hacking, continuous learning, and building a strong technical foundation step by step  </br>
 
 ---
 
