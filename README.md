@@ -2,7 +2,7 @@
 <!--          BANNER SECTION       -->
 <!-- ============================= -->
 
-![Banner]([https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif](https://th.bing.com/th/id/R.4d49eb7ee6fefab3e8b58e97edf00f57?rik=9aZ7Injx%2bqtX%2bw&pid=ImgRaw&r=0))
+![Banner](https://th.bing.com/th/id/R.4d49eb7ee6fefab3e8b58e97edf00f57?rik=9aZ7Injx%2bqtX%2bw&pid=ImgRaw&r=0)
 
 ---
 
