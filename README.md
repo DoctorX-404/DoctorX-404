@@ -10,8 +10,8 @@
 <!--          INTRODUCTION         -->
 <!-- ============================= -->
 
-# Hi, I'm AbdelWahab, but you can call me "DoctorX" 😉
-**[Your tagline here — one line that summarizes your mission/skills.]**
+# Hi, I'm AbdelWahab, but you can call me "DoctorX" 
+**Cybersecurity | Web Developer | Bug Hunter**
 
 ---
 
