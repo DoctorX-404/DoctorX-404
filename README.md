@@ -36,7 +36,7 @@
 <!--         TECH & TOOLS          -->
 <!-- ============================= -->
 
-### 🧰 Tech & Tools
+## 🧰 Tech & Tools
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -56,7 +56,7 @@
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="[https://cdn.simpleicons.org/css3/1572B6](https://tse2.mm.bing.net/th/id/OIP.aiII04uB8m611vQPSw7HfgHaHa?rs=1&pid=ImgDetMain&o=7&rm=3)" alt="CSS3" style="width:56px;height:56px;background:#1f2937;border-radius:12px;padding:8px;margin:6px;display:inline-block;" />
+    <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" style="width:56px;height:56px;background:#1f2937;border-radius:12px;padding:8px;margin:6px;display:inline-block;" />
   </a>
 
   <a href="https://www.mysql.com/" target="_blank">
@@ -83,12 +83,10 @@
     <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" style="width:56px;height:56px;background:#1f2937;border-radius:12px;padding:8px;margin:6px;display:inline-block;" />
   </a>
 
-  <!-- PortSwigger exists in SimpleIcons -->
   <a href="https://portswigger.net/" target="_blank">
     <img src="https://cdn.simpleicons.org/portswigger/FF6F00" alt="PortSwigger" style="width:56px;height:56px;background:#1f2937;border-radius:12px;padding:8px;margin:6px;display:inline-block;" />
   </a>
 
-  <!-- Burp Suite icon might not be available in SimpleIcons; using small text-badge fallback -->
   <a href="https://portswigger.net/burp" target="_blank" style="text-decoration:none;display:inline-block;margin:6px;">
     <img src="https://img.shields.io/badge/Burp%20Suite-%23222222?style=flat-square&logo=burpsuite&logoColor=FF6F00" alt="Burp Suite" style="width:56px;height:56px;border-radius:12px;padding:6px;background:#1f2937;" />
   </a>
