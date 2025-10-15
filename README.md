@@ -20,10 +20,11 @@
 <!-- ============================= -->
 
 ## About Me  
-[Write 3–5 sentences about yourself. Who you are, what you build, and what excites you.  
-Keep it personable and approachable, but professional.]  
-
-🎥 Optional: Add a link to your YouTube channel or other platform.  
+I’m Abdelwahab Ali — a Cybersecurity Student, Bug Hunter, and Web Developer in training.
+💻 Currently exploring web security, Full-Stack development, and deepening my skills through PortSwigger Academy and The Odin Project.
+🎯 My goal is to become a Cybersecurity Expert and contribute to securing modern web applications.
+⚡ I’ve completed CCNA certification, and I’m currently learning advanced web exploitation techniques.
+🚀 Passionate about ethical hacking, continuous learning, and building a strong technical foundation step by step  
 
 ---
 
