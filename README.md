@@ -39,100 +39,72 @@
 ### 🧰 Tech & Tools
 
 <p align="center">
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" style="margin:10px;"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" style="width:56px;height:56px;background:#1f2937;border-radius:12px;padding:8px;margin:6px;display:inline-block;" />
   </a>
-  <br>JavaScript
-</p>
 
-<p align="center">
-  <!-- HTML -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" style="margin:10px;"/>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/nodedotjs/83CD29" alt="Node.js" style="width:56px;height:56px;background:#1f2937;border-radius:12px;padding:8px;margin:6px;display:inline-block;" />
   </a>
-  <br>HTML
-</p>
 
-<p align="center">
-  <!-- CSS -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" style="margin:10px;"/>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" style="width:56px;height:56px;background:#1f2937;border-radius:12px;padding:8px;margin:6px;display:inline-block;" />
   </a>
-  <br>CSS
-</p>
 
-<p align="center">
-  <!-- React -->
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" style="margin:10px;"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" style="width:56px;height:56px;background:#1f2937;border-radius:12px;padding:8px;margin:6px;display:inline-block;" />
   </a>
-  <br>React
-</p>
 
-<p align="center">
-  <!-- Ubuntu -->
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="60" height="60" style="margin:10px;"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" style="width:56px;height:56px;background:#1f2937;border-radius:12px;padding:8px;margin:6px;display:inline-block;" />
   </a>
-  <br>Ubuntu
-</p>
 
-<p align="center">
-  <!-- Kali Linux -->
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="60" height="60" style="margin:10px;"/>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/mysql/00758F" alt="SQL / MySQL" style="width:56px;height:56px;background:#1f2937;border-radius:12px;padding:8px;margin:6px;display:inline-block;" />
   </a>
-  <br>Kali Linux
-</p>
 
-<p align="center">
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" style="margin:10px;"/>
+  <a href="https://ubuntu.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/ubuntu/E95420" alt="Ubuntu" style="width:56px;height:56px;background:#1f2937;border-radius:12px;padding:8px;margin:6px;display:inline-block;" />
   </a>
-  <br>Git
-</p>
 
-<p align="center">
-  <!-- GitHub -->
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" style="margin:10px; filter: invert(1);"/>
+  <a href="https://www.kali.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/kali/268BEE" alt="Kali Linux" style="width:56px;height:56px;background:#1f2937;border-radius:12px;padding:8px;margin:6px;display:inline-block;" />
   </a>
-  <br>GitHub
-</p>
 
-<p align="center">
-  <!-- Nmap -->
-  <a href="https://nmap.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Nmap_logo.svg" width="60" height="60" style="margin:10px;"/>
+  <a href="https://www.centos.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/centos/932279" alt="CentOS" style="width:56px;height:56px;background:#1f2937;border-radius:12px;padding:8px;margin:6px;display:inline-block;" />
   </a>
-  <br>Nmap
-</p>
 
-<p align="center">
-  <!-- Burp Suite -->
-  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/1353940?s=280&v=4" width="60" height="60" style="margin:10px;"/>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" style="width:56px;height:56px;background:#1f2937;border-radius:12px;padding:8px;margin:6px;display:inline-block;" />
   </a>
-  <br>Burp Suite
-</p>
 
-<p align="center">
-  <!-- MCSA -->
-  <a href="https://learn.microsoft.com/en-us/certifications/mcsa/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" width="60" height="60" style="margin:10px;"/>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" style="width:56px;height:56px;background:#1f2937;border-radius:12px;padding:8px;margin:6px;display:inline-block;" />
   </a>
-  <br>MCSA
-</p>
 
-<p align="center">
-  <!-- CCNA -->
-  <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/cisco-2.svg" width="60" height="60" style="margin:10px;"/>
+  <!-- PortSwigger exists in SimpleIcons -->
+  <a href="https://portswigger.net/" target="_blank">
+    <img src="https://cdn.simpleicons.org/portswigger/FF6F00" alt="PortSwigger" style="width:56px;height:56px;background:#1f2937;border-radius:12px;padding:8px;margin:6px;display:inline-block;" />
   </a>
-  <br>CCNA
-</p>>
+
+  <!-- Burp Suite icon might not be available in SimpleIcons; using small text-badge fallback -->
+  <a href="https://portswigger.net/burp" target="_blank" style="text-decoration:none;display:inline-block;margin:6px;">
+    <img src="https://img.shields.io/badge/Burp%20Suite-%23222222?style=flat-square&logo=burpsuite&logoColor=FF6F00" alt="Burp Suite" style="width:56px;height:56px;border-radius:12px;padding:6px;background:#1f2937;" />
+  </a>
+
+  <a href="https://nmap.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/nmap/00BFFF" alt="Nmap" style="width:56px;height:56px;background:#1f2937;border-radius:12px;padding:8px;margin:6px;display:inline-block;" />
+  </a>
+
+  <a href="https://www.cisco.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/cisco/1BA0D7" alt="CCNA / Cisco" style="width:56px;height:56px;background:#1f2937;border-radius:12px;padding:8px;margin:6px;display:inline-block;" />
+  </a>
+
+  <a href="https://learn.microsoft.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/microsoft/0078D7" alt="MCSA / Microsoft" style="width:56px;height:56px;background:#1f2937;border-radius:12px;padding:8px;margin:6px;display:inline-block;" />
+  </a>
+</p>
 ---
 
 <!-- ============================= -->
