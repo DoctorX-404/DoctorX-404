@@ -32,81 +32,87 @@
 <!--         TECH & TOOLS          -->
 <!-- ============================= -->
 
+<!-- ============================= -->
+<!--         TECH & TOOLS          -->
+<!-- ============================= -->
+
 ### 🧰 Tech & Tools
 
-<p align="center">
+<div align="center">
+
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" style="margin:15px;"/>
-    <br><sub><b>JavaScript</b></sub>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/><br>
+    <sub><b>JavaScript</b></sub>
   </a>
 
   <!-- HTML -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" style="margin:15px;"/>
-    <br><sub><b>HTML</b></sub>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/><br>
+    <sub><b>HTML</b></sub>
   </a>
 
   <!-- CSS -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" style="margin:15px;"/>
-    <br><sub><b>CSS</b></sub>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/><br>
+    <sub><b>CSS</b></sub>
   </a>
 
   <!-- React -->
   <a href="https://react.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" style="margin:15px;"/>
-    <br><sub><b>React</b></sub>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/><br>
+    <sub><b>React</b></sub>
   </a>
 
   <!-- Ubuntu -->
   <a href="https://ubuntu.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="60" height="60" style="margin:15px;"/>
-    <br><sub><b>Ubuntu</b></sub>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="60" height="60"/><br>
+    <sub><b>Ubuntu</b></sub>
   </a>
 
   <!-- Kali Linux -->
   <a href="https://www.kali.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="60" height="60" style="margin:15px;"/>
-    <br><sub><b>Kali Linux</b></sub>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="60" height="60"/><br>
+    <sub><b>Kali Linux</b></sub>
   </a>
 
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" style="margin:15px;"/>
-    <br><sub><b>Git</b></sub>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/><br>
+    <sub><b>Git</b></sub>
   </a>
 
   <!-- GitHub -->
   <a href="https://github.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" style="margin:15px; background-color:white; border-radius:10px;"/>
-    <br><sub><b>GitHub</b></sub>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" style="background-color:white; border-radius:10px;"/><br>
+    <sub><b>GitHub</b></sub>
   </a>
 
   <!-- Nmap -->
   <a href="https://nmap.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/nmap/nmap/master/docs/images/nmap-logo-256x256.png" width="60" height="60" style="margin:15px; border-radius:10px;"/>
-    <br><sub><b>Nmap</b></sub>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Nmap_logo.svg" width="60" height="60" style="border-radius:10px;"/><br>
+    <sub><b>Nmap</b></sub>
   </a>
 
   <!-- Burp Suite -->
   <a href="https://portswigger.net/burp" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Burp_Suite_Logo.png" width="60" height="60" style="margin:15px; border-radius:10px;"/>
-    <br><sub><b>Burp Suite</b></sub>
+    <img src="https://upload.wikimedia.org/wikipedia/en/2/23/Burp_Suite_logo.png" width="60" height="60" style="border-radius:10px;"/><br>
+    <sub><b>Burp Suite</b></sub>
   </a>
 
   <!-- MCSA -->
   <a href="https://learn.microsoft.com/en-us/certifications/mcsa/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" width="60" height="60" style="margin:15px;"/>
-    <br><sub><b>MCSA</b></sub>
+    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" width="60" height="60"/><br>
+    <sub><b>MCSA</b></sub>
   </a>
 
   <!-- CCNA -->
   <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/cisco-2.svg" width="60" height="60" style="margin:15px;"/>
-    <br><sub><b>CCNA</b></sub>
+    <img src="https://cdn.worldvectorlogo.com/logos/cisco-2.svg" width="60" height="60"/><br>
+    <sub><b>CCNA</b></sub>
   </a>
-</p>
+
+</div>
 ---
 
 <!-- ============================= -->
