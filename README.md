@@ -32,10 +32,26 @@
 <!--         TECH & TOOLS          -->
 <!-- ============================= -->
 
-## Tech & Tools  
+## 🛠️ Tech & Tools
 
-[![JavaScript](https://cdn.simpleicons.org/javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) JavaScript · [![Node.js](https://cdn.simpleicons.org/nodedotjs)](https://nodejs.org/) Node.js · [![React](https://cdn.simpleicons.org/react)](https://reactjs.org/) React · [![HTML5](https://cdn.simpleicons.org/html5)](https://developer.mozilla.org/en-US/docs/Web/HTML) HTML5 · [![CSS3](https://cdn.simpleicons.org/css3)](https://developer.mozilla.org/en-US/docs/Web/CSS) CSS3 · [![SQL](https://cdn.simpleicons.org/mysql)](https://www.mysql.com/) SQL · [![Ubuntu](https://cdn.simpleicons.org/ubuntu)](https://ubuntu.com/) Ubuntu · [![Kali](https://cdn.simpleicons.org/kali)](https://www.kali.org/) Kali · [![CentOS](https://cdn.simpleicons.org/centos)](https://www.centos.org/) CentOS · [![Git](https://cdn.simpleicons.org/git)](https://git-scm.com/) Git · [![GitHub](https://cdn.simpleicons.org/github)](https://github.com/) GitHub · [![Burp Suite](https://cdn.simpleicons.org/portswigger)](https://portswigger.net/burp) Burp Suite · [![PortSwigger](https://cdn.simpleicons.org/portswigger)](https://portswigger.net/) PortSwigger · [![Nmap](https://cdn.simpleicons.org/nmap)](https://nmap.org/) Nmap · CCNA · MCSA
-
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Node.js-303030?style=for-the-badge&logo=nodedotjs&logoColor=83CD29" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/SQL-2E2E2E?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-333333?style=for-the-badge&logo=ubuntu&logoColor=E95420" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-333333?style=for-the-badge&logo=kalilinux&logoColor=268BEE" />
+  <img src="https://img.shields.io/badge/CentOS-333333?style=for-the-badge&logo=centos&logoColor=932279" />
+  <img src="https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-333333?style=for-the-badge&logo=burpsuite&logoColor=FF6F00" />
+  <img src="https://img.shields.io/badge/PortSwigger-333333?style=for-the-badge&logo=portswigger&logoColor=FF6F00" />
+  <img src="https://img.shields.io/badge/Nmap-333333?style=for-the-badge&logo=nmap&logoColor=00BFFF" />
+  <img src="https://img.shields.io/badge/CCNA-333333?style=for-the-badge&logo=cisco&logoColor=1BA0D7" />
+  <img src="https://img.shields.io/badge/MCSA-333333?style=for-the-badge&logo=microsoft&logoColor=0078D7" />
+</p>
 ---
 
 <!-- ============================= -->
