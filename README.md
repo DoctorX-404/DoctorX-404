@@ -41,9 +41,8 @@
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" style="width:56px;height:56px;background:#1f2937;border-radius:12px;padding:8px;margin:6px;display:inline-block;" />
-    JS
   </a>
-
+JS
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://cdn.simpleicons.org/nodedotjs/83CD29" alt="Node.js" style="width:56px;height:56px;background:#1f2937;border-radius:12px;padding:8px;margin:6px;display:inline-block;" />
   </a>
