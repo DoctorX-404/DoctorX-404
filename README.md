@@ -2,7 +2,17 @@
 <!--          BANNER SECTION       -->
 <!-- ============================= -->
 
-
+# $$$$$$$\                        $$\                        $$\   $$\ 
+$$  __$$\                       $$ |                       $$ |  $$ |
+$$ |  $$ | $$$$$$\   $$$$$$$\ $$$$$$\    $$$$$$\   $$$$$$\ \$$\ $$  |
+$$ |  $$ |$$  __$$\ $$  _____|\_$$  _|  $$  __$$\ $$  __$$\ \$$$$  / 
+$$ |  $$ |$$ /  $$ |$$ /        $$ |    $$ /  $$ |$$ |  \__|$$  $$<  
+$$ |  $$ |$$ |  $$ |$$ |        $$ |$$\ $$ |  $$ |$$ |     $$  /\$$\ 
+$$$$$$$  |\$$$$$$  |\$$$$$$$\   \$$$$  |\$$$$$$  |$$ |     $$ /  $$ |
+\_______/  \______/  \_______|   \____/  \______/ \__|     \__|  \__|
+                                                                     
+                                                                     
+                                                                     
 
 ---
 
@@ -60,14 +70,6 @@
   <img alt="PortSwigger" src="https://img.shields.io/badge/PortSwigger-F26920?style=for-the-badge&logo=portswigger&logoColor=white" />
   <img alt="CCNA" src="https://img.shields.io/badge/CCNA-1BA0D9?style=for-the-badge&logo=cisco&logoColor=white" />
   <img alt="MCSA" src="https://img.shields.io/badge/MCSA-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-</p>
-
-<p align="center">
- >
-</p>
-
-<p align="center">
-
 </p>
 
 ---
