@@ -84,7 +84,7 @@
 
 ## Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([INSERT_LINKEDIN_URL](https://www.linkedin.com/in/abdelwhab-ali-076b8a316/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelwhab-ali-076b8a316/)  
   
 
 ---
