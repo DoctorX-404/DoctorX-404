@@ -2,7 +2,7 @@
 <!--          BANNER SECTION       -->
 <!-- ============================= -->
 
-![Banner](https://coppters.art/images/Space.gif)
+![Banner](./banner.png)
 
 ---
 
