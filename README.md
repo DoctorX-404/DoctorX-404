@@ -89,7 +89,7 @@
 
 ## Socials
 
-[![LinkedIn](https://github-readme-stats.vercel.app/api?username=DoctorX-404&show_icons=true&theme=tokyonight)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelwhab-ali-076b8a316/)
   
 
 ---
@@ -100,4 +100,4 @@
 
 ## GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DoctorX-404&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DoctorX-404&show_icons=true&count_private=true&theme=tokyonight&cache_seconds=1800)
