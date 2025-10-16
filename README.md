@@ -89,7 +89,7 @@
 
 ## Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelwhab-ali-076b8a316/)  
+[![LinkedIn](https://github-readme-stats.vercel.app/api?username=DoctorX-404&show_icons=true&theme=tokyonight)  
   
 
 ---
