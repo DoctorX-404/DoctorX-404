@@ -2,16 +2,16 @@
 <!--          BANNER SECTION       -->
 <!-- ============================= -->
 
-<pre>
-
+<p align="center" style="background:none; border:none; box-shadow:none; padding:0; margin:0;">
+<pre style="background:none; border:none; box-shadow:none; padding:0; margin:0;">
     ____             __                _  __
    / __ \____  _____/ /_____  _____   | |/ /
   / / / / __ \/ ___/ __/ __ \/ ___/   |   / 
  / /_/ / /_/ / /__/ /_/ /_/ / /      /   |  
 /_____/\____/\___/\__/\____/_/      /_/|_|  
-                                            
-    
-</pre>                                                                   
+                                              
+</pre>
+</p>                                                                
                                                                    
                                                                      
                                                                      
