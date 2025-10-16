@@ -2,7 +2,7 @@
 <!--          BANNER SECTION       -->
 <!-- ============================= -->
 
-![Banner](./banner.png)
+
 
 ---
 
@@ -68,8 +68,8 @@
   <img alt="CCNA" src="https://img.shields.io/badge/CCNA-1BA0D9?style=for-the-badge&logo=cisco&logoColor=white" />
   <img alt="MCSA" src="https://img.shields.io/badge/MCSA-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
----
 
+---
 <!-- ============================= -->
 <!--           MY PROJECTS         -->
 <!-- ============================= -->
