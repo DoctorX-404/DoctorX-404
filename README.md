@@ -23,7 +23,7 @@
 <!-- ============================= -->
 
 # 👋 Hi, I'm AbdelWahab, but you can call me "DoctorX" 
-**Cybersecurity | Web Developer | Bug Hunter**
+**Cybersecurity |Full-Stack Web Developer | Bug Hunter**
 
 ---
 
