@@ -23,7 +23,7 @@
 <!-- ============================= -->
 
 # 👋 Hi, I'm AbdelWahab, but you can call me "DoctorX" 
-**Cybersecurity |Full-Stack Web Developer | Bug Hunter**
+**Cybersecurity | Full-Stack Web Developer | Bug Hunter**
 
 ---
 
@@ -89,7 +89,7 @@
 
 ## Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://github.com/DoctorX-404)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/doctorx404/)
   
 
 ---
